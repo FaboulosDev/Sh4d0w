@@ -2,7 +2,7 @@
 
 unsigned int brt;          /* we declare btr */
 unsigned int b;            /* like a 'son' of btr */
-unsigned int ech;          /* ech is used to see the changes of varibles..it can be disabled
+unsigned int ech;          /* ech is used to see the changes of varibles..it can be disabled */
 char a;                    /* a is used for i/o */
 
 int main                   /* main function */
